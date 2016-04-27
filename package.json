@@ -1,0 +1,28 @@
+{
+  "name": "payfast",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm	run	clusters",
+  	"clusters":	"clusters.js",
+  	"test":	"echo	\"Error:	no	test	specified\"	&&	exit	1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-load": "~1.1.15",
+    "express": "~4.13.4",
+    "body-parser": "~1.15.0",
+    "mysql": "~2.10.2",
+    "express-validator": "~2.20.3",
+    "restify": "~4.0.4",
+    "node-inspector": "~0.12.8",
+    "nodemon": "~1.9.1",
+    "soap": "~0.14.0",
+    "memcached": "~2.2.1",
+    "morgan": "~1.7.0",
+    "winston": "~2.2.0",
+    "cors": "~2.7.1"
+  }
+}

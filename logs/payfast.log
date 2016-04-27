@@ -1,0 +1,15 @@
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:16:00:17 +0000] \"GET /pagamentos/pagamento/65 HTTP/1.1\" 500 1821\n","timestamp":"2016-04-27T16:00:17.402Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:16:04:31 +0000] \"GET /pagamentos/pagamento/65 HTTP/1.1\" 500 1821\n","timestamp":"2016-04-27T16:04:31.252Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:16:05:14 +0000] \"GET /pagamentos/pagamento/65 HTTP/1.1\" 500 1821\n","timestamp":"2016-04-27T16:05:14.263Z"}
+{"level":"info","message":"Recuperando ID","timestamp":"2016-04-27T17:19:28.873Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:17:19:28 +0000] \"GET /pagamentos/pagamento/65 HTTP/1.1\" 200 145\n","timestamp":"2016-04-27T17:19:28.907Z"}
+{"level":"info","message":"Recuperando ID","timestamp":"2016-04-27T17:19:43.452Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:17:19:43 +0000] \"GET /pagamentos/pagamento/65 HTTP/1.1\" 200 145\n","timestamp":"2016-04-27T17:19:43.460Z"}
+{"level":"info","message":"Recuperando ID","timestamp":"2016-04-27T17:19:46.974Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:17:19:46 +0000] \"GET /pagamentos/pagamento/65 HTTP/1.1\" 200 145\n","timestamp":"2016-04-27T17:19:46.979Z"}
+{"level":"info","message":"Recuperando ID","timestamp":"2016-04-27T18:06:48.182Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:18:06:48 +0000] \"GET /pagamentos/pagamento/64 HTTP/1.1\" 200 145\n","timestamp":"2016-04-27T18:06:48.308Z"}
+{"level":"info","message":"Recuperando ID","timestamp":"2016-04-27T18:59:51.048Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:18:59:51 +0000] \"GET /pagamentos/pagamento/64 HTTP/1.1\" 200 145\n","timestamp":"2016-04-27T18:59:51.076Z"}
+{"level":"info","message":"Recuperando ID","timestamp":"2016-04-27T19:07:51.734Z"}
+{"level":"info","message":"127.0.0.1 - - [27/Apr/2016:19:07:51 +0000] \"GET /pagamentos/pagamento/64 HTTP/1.1\" 200 145\n","timestamp":"2016-04-27T19:07:51.762Z"}
